@@ -6,6 +6,28 @@ I want to dock my bike at the docking station
 As a member of the public,
 So that I can use a bike,
 I’d like a docking station to release a bike.
+
+Nouns
+Member
+Public
+Bike
+Bikes
+Docking Station
+
+Verbs
+Return
+Hired
+Dock -
+Want
+Use
+Release -
+Like
+
+Objects | Messages
+Bike
+DockingStation | dock(bike), release
+
+
 # Part 2
 As a member of the public,
 So that I am not confused and charged unnecessarily,
